@@ -1,0 +1,21 @@
+# Ignore wandb directory
+wandb/
+
+# Ignore docker environment variables
+.env
+
+tmp*
+
+data/*
+
+transE_embeds*
+
+__pycache__/*
+
+config*
+
+test.ipynb
+
+run*
+*.pkl
+helper*
