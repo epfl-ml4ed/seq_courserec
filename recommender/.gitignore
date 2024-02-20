@@ -12,8 +12,6 @@ transE_embeds*
 
 __pycache__/*
 
-config*
-
 test.ipynb
 
 run*
