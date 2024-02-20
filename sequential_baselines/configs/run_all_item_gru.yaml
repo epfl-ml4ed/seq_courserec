@@ -1,0 +1,5 @@
+latex_table: datasets/mooc_item/results/latex_table.txt
+
+config_list: [
+  configs/SEQ_item/GRU4Rec.yaml
+]
